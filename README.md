@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://github.com/teradyne-dev-workshops/github-games-ter-wangdavi/index.html
+You can play the game at: https://teradyne-dev-workshops.github.io/github-games-ter-wangdavi/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
